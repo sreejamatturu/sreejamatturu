@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am Sreeja Matturu currently pursuing Master's in Computer Science at New Mexico State University. I will be graduating in Summer 2020 and actively looking for internships and full-time jobs in software engineer or data analyst. My repository has the list of my course work projects and papers that I worked on during my Mastrer's Period.
 
 <!--
 **sreejamatturu/sreejamatturu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
